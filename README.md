@@ -17,7 +17,9 @@
 최근에는 아래와 같은 기술 스택을 주로 사용하고 있습니다.
 
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/REACT-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
 [![Daeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=dar-jeeling&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
